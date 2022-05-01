@@ -1,0 +1,5 @@
+language: deno
+fprocess: deno run index.ts
+welcome_message: |
+  You have created a new function which uses Deno 1.10.3 and the OpenFaaS
+  Classic Watchdog.
